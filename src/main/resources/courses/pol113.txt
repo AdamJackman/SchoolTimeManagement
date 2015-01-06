@@ -1,0 +1,3 @@
+assignment, Hobbes Essay,15,9,2014,11:00,11:00,Write an essay on Hobes and his way of thinking,15
+assignment, Midterm,24,9,2014,10:00,12:00,Midterm in room 1123,40
+lecture,Political Science Lecture 2,0 2 ,0 ,2014,12:00,02:00,no des,pol113

@@ -1,0 +1,14 @@
+shameel, shameelm.khan@mail.utoronto.ca, 123
+rabee, rabee.hanna@mail.utoronto.ca, 123
+jamie, jaime.pokhoy@mail.utoronto.ca, 123
+sachit, sachit.ramjee@mail.utoronto.ca, 123
+adam, adam.jackman@mail.utoronto.ca, 123
+darren, darren.pepper@mail.utoronto.ca, 123
+andre, andre.chalhoub@mail.utoronto.ca, 123
+mike, mike@gmail.com, 123
+sam, sam@gmail.com, 123
+sally, sally@hotmail.com, 123
+john, john@hotmail.com, 123
+adam123, adam@gmail.com, 123
+saad, saad@gmail.com, 123
+joey, joey@gmail.com, 123
