@@ -1,3 +1,5 @@
+Some Non functional files have been ommited to protect personal data of team members
+
 Time Management Tool 
 ================================
 [Phase 1](./Phase1)
