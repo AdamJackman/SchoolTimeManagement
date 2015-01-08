@@ -1,4 +1,5 @@
-Some Non functional files have been ommited to protect personal data of team members
+This project was created as part of a university course CSC301: Software Engineering
+Some non functional files have been ommited to protect personal data of other team members
 
 Time Management Tool 
 ================================
